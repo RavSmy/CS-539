@@ -1,3 +1,8 @@
 This program should use indirect input/output.
 
-It stores the information into structures (up to 50), then outputs the them according to zipcode order. 
+It stores the information into structures (up to 50), then outputs the them according to zipcode order. Input must be types precisely. 
+
+
+address.txt -- sample input
+ output.txt -- output from sorted address.txt
+
