@@ -1,0 +1,3 @@
+This program uses indirect input/output.
+
+It stores the information into structures (up to 50), then outputs the them according to zipcode order. 
