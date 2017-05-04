@@ -1,4 +1,12 @@
-#define FUNCTIONS_H_INCLUDED
+/*
+	"Functions.h"
+	Ravela Smyth
+	LAB 6B, 7B
+	CS 539
+	5/9/2017
+*/
+
+define FUNCTIONS_H_INCLUDED
 
 typedef struct user_data{
 	char name[100];
